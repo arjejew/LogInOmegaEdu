@@ -1,2 +1,2 @@
-# LogInOmegaEdu
-LOG IN OMEGA.EDU
+# AllInMyStudy
+All In My Study
